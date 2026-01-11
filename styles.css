@@ -1,0 +1,96 @@
+* {
+    background-color: #333;
+}
+
+#title {
+    font-size: 25px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#healthForm {
+    border: 1px solid;
+    border-radius: 0.5rem;
+    margin: auto;
+    width: 60%;
+    border-color: white;
+}
+
+#weight {
+    margin: 0.5rem;
+    font-size: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#weightInput {
+    width: 95%;
+    margin: 0.2rem;
+    font-size: 20px;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+#heartRate {
+    margin: 0.5rem;
+    font-size: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heartRateInput {
+    width: 95%;
+    margin: 0.2rem;
+    font-size: 20px;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+#stepsWalked {
+    margin: 0.5rem;
+    font-size: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#stepsInput {
+    width: 95%;
+    margin: 0.2rem;
+    font-size: 20px;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+}
+
+#submitBtn {
+    width: 97%;
+    margin: 0.2rem;
+    font-size: 20px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: rgb(103, 11, 233);
+    color: white;
+    cursor: pointer;
+}
+
+#submitBtn:hover {
+    background-color: rgb(103, 11, 233);
+}
+
+#outputData {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0.5rem;
+    text-align: center;
+    color: white;
+}
+
+.results {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0.5rem;
+    text-align: center;
+    color: white;
+}
